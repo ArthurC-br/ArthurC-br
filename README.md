@@ -7,3 +7,4 @@
 </div>
 
   
+ ![Snake animation](https://github.com/ArthurC-br/ArthurC-br/blob/output/github-contribution-grid-snake.svg)
