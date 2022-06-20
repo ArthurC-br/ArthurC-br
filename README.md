@@ -6,5 +6,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurC-br&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-  
+<div align="center">
  ![Snake animation](https://github.com/ArthurC-br/ArthurC-br/blob/output/github-contribution-grid-snake.svg)
+</div>
